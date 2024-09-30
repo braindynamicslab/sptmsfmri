@@ -13,7 +13,7 @@ Neuroimaging and cognitive neuroscience studies have identified neural circuits 
 - minimally preproccess data using mriqc: [mriqc_individual_ng.sh](https://github.com/braindynamicslab/sptmsfmri/blob/main/mriqc_individual_ng.sh), [mri_qc_group_ng.sh](https://github.com/braindynamicslab/sptmsfmri/blob/main/mriqc_group_ng.sh)
 - generate plots [generate_plots_cg.py](https://github.com/braindynamicslab/sptmsfmri/blob/main/generate_plots_cg.py)
 - compute stats [stat_test_ms.m](https://github.com/braindynamicslab/sptmsfmri/blob/main/stat_test_ms.m)
-- data 
+- data for generating plots [data](https://github.com/braindynamicslab/sptmsfmri/tree/main/data)
 
 ## Having Issues?
 
