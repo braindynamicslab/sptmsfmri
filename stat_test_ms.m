@@ -7,7 +7,7 @@
 % date - Sep 23, 2024
 
 %%
-cd ~/Dropbox/Articles_In_Preparation/active/sptms-fmri/data_for_anova/
+cd <current directory>
 
 fnames = dir('*.csv');
 fnames = {fnames.name};
